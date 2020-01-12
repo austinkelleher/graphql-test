@@ -1,2 +1,0 @@
-# graphql-test
-Begin app
